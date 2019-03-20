@@ -27,7 +27,6 @@ Computational Vertex Synthesis
 ![screenshot](https://raw.githubusercontent.com/rnd7/profile/master/doc/cvs1.png)
 
 [Repo](https://github.com/rnd7/cvs1)
-
 [Example](https://rnd7.github.io/cvs1)
 
 ### rndmsc
@@ -36,7 +35,6 @@ More or less random pure js music
 ![screenshot](https://raw.githubusercontent.com/rnd7/profile/master/doc/rndmsc.png)
 
 [Repo](https://github.com/rnd7/rndmsc)
-
 [Example](https://rnd7.github.io/rndmsc)
 
 ## Video
@@ -93,7 +91,6 @@ Fun with GLSL. Multiple Shader Passes modulating their own output.
 ![screenshot](https://raw.githubusercontent.com/rnd7/profile/master/doc/modulateur.png)
 
 [Repo](https://github.com/rnd7/modulateur)
-
 [Example](https://rnd7.github.io/modulateur)
 
 ### ssi
@@ -102,7 +99,6 @@ Sub Sample Impressionist
 ![screenshot](https://raw.githubusercontent.com/rnd7/profile/master/doc/ssi.png)
 
 [Repo](https://github.com/rnd7/ssi)
-
 [Example](https://rnd7.github.io/ssi)
 
 ### mycelium
@@ -111,7 +107,6 @@ Growing mycelium
 ![screenshot](https://raw.githubusercontent.com/rnd7/profile/master/doc/mycelium.png)
 
 [Repo](https://github.com/rnd7/mycelium)
-
 [Example](https://rnd7.github.io/mycelium)
 
 
@@ -123,7 +118,6 @@ Canvas Bezier Movement Tech Demo
 ![screenshot](https://raw.githubusercontent.com/rnd7/profile/master/doc/elastic-relaxation.png)
 
 [Repo](https://github.com/rnd7/elastic-relaxation)
-
 [Example](https://rnd7.github.io/elastic-relaxation)
 
 ### Amoeba
@@ -132,7 +126,6 @@ An attempt to imitate the movements of an amoeba
 ![screenshot](https://raw.githubusercontent.com/rnd7/profile/master/doc/amoeba.png)
 
 [Repo](https://github.com/rnd7/amoeba)
-
 [Example](https://rnd7.github.io/amoeba)
 
 ### bwps
@@ -141,7 +134,6 @@ Polygon Smoothing Algorithm
 ![screenshot](https://raw.githubusercontent.com/rnd7/profile/master/doc/bwps.png)
 
 [Repo](https://github.com/rnd7/bwps)
-
 [Example](https://rnd7.github.io/bwps)
 
 
@@ -153,7 +145,6 @@ Fractal trees for JavaScript
 ![screenshot](https://raw.githubusercontent.com/rnd7/profile/master/doc/frtr.png)
 
 [Repo](https://github.com/rnd7/frtr)
-
 [Example](https://rnd7.github.io/frtr)
 
 ### Kinetic Trees
@@ -162,7 +153,6 @@ Dynamic dragable branches with Javascript and THREE.js
 ![screenshot](https://raw.githubusercontent.com/rnd7/profile/master/doc/kinetic-trees.png)
 
 [Repo](https://github.com/rnd7/kinetic-trees)
-
 [Example](https://rnd7.github.io/kinetic-trees)
 
 ### g4p
@@ -171,7 +161,6 @@ Gravity for Particles
 ![screenshot](https://raw.githubusercontent.com/rnd7/profile/master/doc/g4p.png)
 
 [Repo](https://github.com/rnd7/g4p)
-
 [Example](https://rnd7.github.io/g4p)
 
 
@@ -183,7 +172,6 @@ Simple Asteroids Clone written in JS
 ![screenshot](https://raw.githubusercontent.com/rnd7/profile/master/doc/blast.png)
 
 [Repo](https://github.com/rnd7/blast)
-
 [Example](https://rnd7.github.io/blast)
 
 
@@ -193,7 +181,6 @@ Bounce Tech demo.
 ![screenshot](https://raw.githubusercontent.com/rnd7/profile/master/doc/fatty.png)
 
 [Repo](https://github.com/rnd7/fatty)
-
 [Example](https://rnd7.github.io/fatty)
 
 
@@ -205,7 +192,6 @@ Generic user interface component designed to interact with synthesizers or other
 ![screenshot](https://raw.githubusercontent.com/rnd7/profile/master/doc/ctrl.png)
 
 [Repo](https://github.com/rnd7/ctrl)
-
 [Example](https://rnd7.github.io/ctrl)
 
 ## Arduino
