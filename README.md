@@ -1,5 +1,5 @@
 # About
-Welcome fellow. Take a seat and enjoy my presentation and projection. A lot of spare time work is part of it. When it compiles and feels a bit robust it is likely that it ends up here. Time is rare and there is so much stuff to do, so I will likely not accept any Feature-Requests. Feel free to send me Pull-Requests, but please be patient.
+Welcome fellow. Take a seat and enjoy my presentation and projection. A lot of spare time work is part of it. When it compiles and feels bit robust it is likely that it ends up here. Time is rare and there is so much stuff to do, so I will presumably not accept any Feature-Requests. Feel free to send me Pull-Requests, but please be patient.
 
 # Me, but not in person
 Skip this if you don't care.
