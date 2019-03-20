@@ -17,7 +17,7 @@ Since more then 25 years, I see technology emerging and vanishing again. I think
 I love web technology, today especially the HTML5, preprocesed CSS3, transpiled ES6, WebGL, virtualized Linux, Node.js, Mongo kind of setup, even though I am not too opinionated. In more recent years I also had fun writing C that runs on micro controllers and embedded systems, C++ primarily for the use with the QT Framework, Java that runs on Android Devices, Python for server side scripting, GLSL to implement some fancy Shaders and beside what I forgot Golang to extend the functionality of some existing webservices. Furthermore I am quite familiar with tools like git, Jira, a bunch of IDEs, several Groupwares, the mayor Cloud Services, popular CMS and DAM Systems, the Adobe stuff and the corresponding Open Source replacements, Blender, Unity and the Unreal Development Kit.
 
 # Selected work
-In late 2018 I decided to dedicate some of my recent private software projects to the public and uploaded those. Sometime a bit dusty but perhaps still worth a look. I uploaded preferably stuff that runs in your browser, but some Apps need to be installed.
+In late 2018 I decided to dedicate some of my recent private software projects to the public and uploaded those. Sometime a bit dusty but perhaps still worth a look. I uploaded preferably stuff that runs in your browser but some Apps need to be installed.
 
 ## Audio
 
@@ -27,6 +27,7 @@ Computational Vertex Synthesis
 ![screenshot](https://raw.githubusercontent.com/rnd7/profile/master/doc/cvs1.png)
 
 [Repo](https://github.com/rnd7/cvs1)
+
 [Example](https://rnd7.github.io/cvs1)
 
 ### rndmsc
