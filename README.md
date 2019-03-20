@@ -1,18 +1,18 @@
 # About
-Welcome fellow. Check out my personal github page. All my spare time work will end up here. Time is rare and there is so much stuff to do, so I will likely not accept any Feature Requests. Feel free to send Pull-Requests, but please be patient.
+Welcome fellow. Check out my personal github page. All my spare time work will end up here if it compiles. Time is rare and there is so much stuff to do, so I will likely not accept any Feature Requests. Feel free to send Pull-Requests, but please be patient.
 
 # CV
 Since I got my first Computer in 1992 I am passionate about digital creation. I gathered a variety of different skills. I produced music, designed and illustrated print and screen media, filmed and produced videos, modeled and animated in all Dimensions and finally wrote uncountable Lines of code. I started to work as professional Screen and UI Designer way back in 2005 after I canceled my physics studies.
 
 Because I already had some coding experience and due to the increasing demand for web developers during the web 2.0 hype, it did not take long to shift my focus. Until 2012 I worked as employee and freelancer in various projects for different well known companies and end customers. After 7 years of intense work I felt exhausted and decided to take a break for the next 7 years. During this period I learned, I handcrafted, I lived without anything except a backpack. I even tried to get along without any money. Particularly this is really hard to achieve in our capital driven world. So after a bit more then two years I considered to work part time as software developer again, while still keeping the balance living remote on my "Wagenplatz".
 
-Today I am settled again, live in Hamburg and work for a tech company based in Kiel. When I joined we were a small startup focussed on projection mapping solutions. Today we are a company specialized on Video Software and Hardware, Cloud Services and the necessary infrastructure. We established an easy to use, remote controlled, offline capable, IoT Media Playback system for artists and PoS marketing experts that is used throughout different industries. Beside of this, I am still addicted to creating digital art. Some of the more programmatic projects you will find in my repos.
+Today I am settled again, live in Hamburg and work for a tech company based in Kiel. When I joined we were a small startup focussed on projection mapping solutions. Today we are a company specialized in Video Software and Hardware, Cloud Services and the necessary infrastructure. We established an easy to use, remote controlled, offline capable, IoT Media Playback system for artists and PoS marketing experts that is used throughout different industries. Beside of this, I am still addicted to creating digital art. Some of the more programmatic projects you will find in my repos.
 
 # Tech Stack
 Since more then 25 years, I see technology emerging and vanishing again. I think I probably wrote code in almost all mayor languages for many different purposes. Since some years, as this term became popular, I would describe myself as full stack developer, perhaps slightly UI/UX/VFX centric. I love web technology, today especially the HTML5, preprocesed CSS3, transpiled ES6, WebGL, virtualized Linux, Node.js, Mongo kind of setup, even though I am not too opinionated. In more recent years I also had fun writing C that runs on micro controllers and embedded systems, C++ primarily for the use with the QT Framework, Java that runs on Android Devices, Python for server side scripting, GLSL to implement some fancy Shaders and beside what I forgot Golang to extend the functionality of some existing webservices. Furthermore I am quite familiar with tools like git, Jira, a bunch of IDEs, several Groupwares, the mayor Cloud Services, popular CMS and DAM Systems, the Adobe stuff and the corresponding Open Source replacements, Blender, Unity and the Unreal Development Kit.
 
 # Selected work
-In late 2018 I decided to dedicate some of my recent private software projects to the public and uploaded those projects. Sometime a bit dusty but perhaps still worth a look.
+In late 2018 I decided to dedicate some of my recent private software projects to the public and uploaded those projects. Sometime a bit dusty but perhaps still worth a look. I uploaded preferably stuff that runs in your browser, but some Apps need to be installed.
 
 ## Audio
 
@@ -22,7 +22,6 @@ Computational Vertex Synthesis
 ![screenshot](https://raw.githubusercontent.com/rnd7/profile/master/doc/cvs1.png)
 
 [Repo](https://github.com/rnd7/cvs1)
-
 [Example](https://rnd7.github.io/cvs1)
 
 ### rndmsc
