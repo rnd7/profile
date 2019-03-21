@@ -1,11 +1,11 @@
 # About
-Welcome fellow. Take a seat and enjoy my presentation and projection. A lot of spare time work is part of it. When it compiles and feels bit robust it is likely that it ends up here. Time is rare and there is so much stuff to do, so I will presumably not accept any Feature-Requests. Feel free to send me Pull-Requests, but please be patient.
+Welcome fellow. Take a seat and enjoy my presentation. A lot of spare time work is part of it. When it compiles and feels a kind of robust it is likely that it ends up here. Time is rare and there is so much stuff to do, so I will presumably not accept any Feature-Requests. Feel free to send me Pull-Requests, but please be patient.
 
-# Me, but not in person
+# The guy behind the keyboard
 Skip this if you don't care.
 
 ## CV
-Since I got my first Computer in 1992 I am passionate about digital creation. I gathered a variety of different skills. I produced music, designed and illustrated print and screen media, filmed and produced videos, modeled and animated in all Dimensions and finally wrote uncountable Lines of code. I started to work as professional Screen and UI Designer way back in 2005 after I canceled my physics studies.
+Since I got my first Computer in 1992 I am passionate about digital creation. I gathered a variety of different skills at different levels. I produced music, designed and illustrated print and screen media, filmed and produced videos, modeled and animated in all Dimensions and finally wrote uncountable Lines of code. I started to work as professional Screen and UI Designer way back in 2005 after I canceled my physics studies.
 
 Because I already had some coding experience and due to the increasing demand for web developers during the web 2.0 hype, it did not take long to shift my focus. Until 2012 I worked as employee and freelancer in various projects for different well known companies and end customers. After 7 years of intense work I felt exhausted and decided to take a break for the next 7 years. During this period I learned, I handcrafted, I lived without anything except a backpack. I even tried to get along without any money. Particularly this is really hard to achieve in our capital driven world. So after a bit more then two years I considered to work part time as software developer again, while still keeping the balance living remote on my "Wagenplatz".
 
