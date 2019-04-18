@@ -79,6 +79,15 @@ Crawling creatures moving within the mask borders of an projection mapped plane
 
 [Repo](https://github.com/rnd7/crawling-creatures)
 
+## Productiviy
+
+### Molehill
+Molehill is a Webcrawler for repetitive data mining and unification purposes.
+
+![screenshot](https://raw.githubusercontent.com/rnd7/profile/master/doc/molehill.png)
+
+[Repo](https://github.com/rnd7/molehill)
+
 
 ## Parametric and Random Art
 
