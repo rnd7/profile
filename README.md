@@ -112,7 +112,7 @@ Growing mycelium
 ### frtr
 Fractal trees for JavaScript
 
-![screenshot](https://raw.githubusercontent.com/rnd7/profile/master/doc/frtr.png)
+[![screenshot](https://raw.githubusercontent.com/rnd7/profile/master/doc/frtr.png)](https://rnd7.github.io/frtr)
 
 [Repository](https://github.com/rnd7/frtr)
 [Example](https://rnd7.github.io/frtr)
