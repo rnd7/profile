@@ -23,11 +23,11 @@ I love making music and and I enjoy writing software that can be used for this. 
 ## AWSM 
 AwesomeWaveSplineMachine. WaveSpline synthesis software synthesizer building on the experience gained with cvs1.
 
-[![screenshot](doc/awsm.png)](https://rnd7.github.io/awsm)
+[![screenshot](doc/awsm.png)](https://rnd7.github.io/awsm/dist)
 
 [AWSM repository](https://github.com/rnd7/awsm)
 
-[AWSM online](https://rnd7.github.io/aws/dist)
+[AWSM online](https://rnd7.github.io/awsm/dist)
 
 ## cvs1
 Computational audio synthesis proof of concept.
