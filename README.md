@@ -1,7 +1,7 @@
 # About
-Welcome fellow. Take a seat and enjoy the show. Back in 2018 I decided to dedicate some of my private software projects to the public and uploaded those to GitHub. I liked the idea and continued contributing. GitHub is my favorite free web hosting solution. Whenever I find time for a side project it is likely that it ends up here. Some repos might not be that interesting, some are really dusty, so here's a curated list of a selection I think is worth checking out.
+Welcome fellow. Take a seat and enjoy the show. Back in 2018 I decided to dedicate some of my private software projects to the public and uploaded those to GitHub. I liked the idea and continued contributing. GitHub is my favorite free web hosting solution. Whenever I find time for a side project it is likely that it ends up here. Some repos might not be that interesting, some are really dusty, so here's a curated list.
 
-# Pathways and belove technology
+# Devoured pathways and friendly technology
 Somehow I always find it a bit disturbing to write about myself, but I take the opportunity to do so. Let's make it sound cool.
 
 Since I got my first Computer in 1992 I am passionate about digital creation. I gathered a variety of different skills at different levels. I produced music, designed and illustrated print and screen media, filmed and produced videos, modeled and animated in all dimensions and finally wrote uncountable Lines of code. 
@@ -50,11 +50,11 @@ More or less random music. This was my first attempt to make music using nothing
 ## ctrl
 Generic user interface component designed to interact with synthesizers or other realtime applications. I used these to fiddle around with the parameters of different otherwise hard-coded audio installations.
 
-[![screenshot](doc/ctrl.png)](https://rnd7.github.io/ctrl)
+[![ctrl screenshot](doc/ctrl.png)](https://rnd7.github.io/ctrl)
 
-[Repository](https://github.com/rnd7/ctrl)
+[ctrl repository](https://github.com/rnd7/ctrl)
 
-[Application](https://rnd7.github.io/ctrl)
+[ctrl online](https://rnd7.github.io/ctrl)
 
 # Video
 Together with the beloved mother of my children Aimee Slickers, I realized quite a lot of different Video Installlations under the pseudonym Lux & Lucid. The tools listed here all emerged from these projects. All are purpose build and most of them were only intended to perform one specific task for one occasion. Even if designed as disposable software, some still could be reused.
@@ -77,16 +77,16 @@ Video Mandala Mixer
 ## Lux & Lucid Emerald
 Image Slideshow Tool with basic projection mapping capabilities.
 
-[![screenshot](doc/emerald.png)](https://github.com/rnd7/emerald)
+[![emerald screenshot](doc/emerald.png)](https://github.com/rnd7/emerald)
 
 [emerald repository](https://github.com/rnd7/emerald)
 
 ## Lux & Lucid VideoMapper
 Single Surface Video Projection Mapper
 
-[![screenshot](doc/video-mapper.png)](https://github.com/rnd7/video-mapper)
+[![VideoMapper screenshot](doc/video-mapper.png)](https://github.com/rnd7/video-mapper)
 
-[Repository](https://github.com/rnd7/video-mapper)
+[VideoMapper repository](https://github.com/rnd7/video-mapper)
 
 ### Lux & Lucid Infinite
 Infinite Zoom Application
