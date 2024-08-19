@@ -1,4 +1,4 @@
-# Paths and junctions
+# About
 My life has had many miraculous twists and turns. Today I am a father of two lovely daughters, living a model family life in the countryside just beyond the city gates. I work as consultant, project manager and software developer for Intuity Media Labs. I used to be a rebel, musician, physicist, designer, workaholic, dropout, hippie, activist, artist and philosopher.
 
 As a skeptical person, I ask myself why individuals are usually so convinced of themselves and their model of reality. The facts are quite simple, a single person is lovable at best, but only together and over time we came up with all the wonderful achievements surrounding us today. The more ideas are exchanged, the faster innovation progresses. I believe we are all essentially just explorers, not inventors. Publishing source code and providing free Software is a contribution to this interhuman spirit of innovation.
