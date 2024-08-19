@@ -1,27 +1,27 @@
-# About
-Welcome fellow. Take a seat and enjoy the show. Back in 2018 I decided to dedicate some of my private software projects to the public and uploaded those to GitHub. I liked the idea and continued contributing. GitHub is my favorite free web hosting solution. Whenever I find time for a side project it is likely that it ends up here. Some repos might not be that interesting, some are really dusty, so here's a curated list.
-
 # Devoured pathways and friendly technology
-Somehow I always find it a bit disturbing to write about myself, but I take the opportunity to do so. Let's make it sound cool.
+My life has had many miraculous twists and turns. Today I am a father of two lovely daughters, living a model family life in the countryside just beyond the city gates. I work as consultant, project manager and software developer for Intuity Media Labs. I used to be a rebel, musician, physicist, designer, workaholic, dropout, hippie, activist, punk, artist and philosopher.
 
-Since I got my first Computer in 1992 I am passionate about digital creation. I gathered a variety of different skills at different levels. I produced music, designed and illustrated print and screen media, filmed and produced videos, modeled and animated in all dimensions and finally wrote uncountable Lines of code. 
+As a skeptical person, I ask myself why individuals are usually so convinced of themselves and their model of reality. The facts are quite simple, a single person is lovable at best, but only together and over time we came up with all the wonderful achievements surrounding us today. The more ideas are exchanged, the faster innovation progresses. I believe we are essentially explorers, not inventors. Publishing source code and providing free Software is a contribution to the interhuman spirit of innovation. Praise the anthroposphere and overcome its downsides.
 
-I started to work as professional Screen and UI Designer way back in 2005 after I canceled my physics studies. Because I already had some coding experience and due to the increasing demand for Web Developers during the Web 2.0 hype, it did not take long to shift my focus. Until 2012 I worked as employee and freelancer in various projects for different more or less well known companies and end customers. 
-
-After 7 years of intense work I felt exhausted and decided to take a break for the next 7 years. In the end it were just 2 years, but these were great. During this period I read, learned, gardened and handcrafted. I lived without anything except what fitted in my backpack. I even tried to get along without spending money. Particularly the last point is really hard to achieve. Since a laptop fits in a backpack, I also coded a bit, mainly for the sake of fine arts. Then there was an opportunity to work on an interesting project and I considered to work part time as software developer again, while still keeping the balance living remote on my "Wagenplatz".
-
-A bit later I joined a small startup based in Kiel focussed on projection mapping solutions. Meanwhile this company specialized in Video Software and Hardware, Cloud Services and the necessary infrastructure. We established an easy to use, remote controlled, offline capable, IoT Media Playback system for artists and PoS marketing experts that is used throughout different industries. It was a great time and I'm a bit proud of what we've achieved.
-
-Today I'm in my early forties, became father of two children and live in an apartment with way more stuff than fits in a backpack. I work for a UI/UX agency in Hamburg focussed on the concept and design of physical user interfaces in the industrial design sector.
-
-Since probably more than 25 years I actively observe how technology emerges and vanishes again. I'm trying to keep up. I love web technology and became a bit obsessed with ES6, even though I am not overly opinionated. In more recent years I also had a good time writing C code that runs on micro controllers and embedded systems, writing Webservices with Golang, or GLSL Shaders for super fancy VFX. I've always been a bit annoyed writing Java apps for Android devices, but you take what you get. Before that I enjoyed developing QT Apps, regardless of the licenses, had fun with Python and learned to hate PHP, I guess I should tryout a more recent version someday. I also discovered how to handle three dimensions using Blender, Unity or the UDK and how to wrangle realtime audio and video data. I learned to speak Linux more and more fluently and how to setup a server or configure some cloud to act like one. There is also a distant past in which I wrote Flash applications, struggled with html frames and fiddled around with Perl, Pascal and even Basic. I have to admit I'm happy about where we are today.
-
+# Contact
+Feel free to contact me via these channels.
+[LinkedIn](https://www.linkedin.com/in/c-nicholas-schreiber-079924281/)
+[Discord](https://discord.com/channels/1275008575365840906/1275008774658326569)
 
 # Audio
-I love making music and and I enjoy writing software that can be used for this. I wrote a number of Flash synthesizers and step sequencers during the 2000's. Although widely hated, I liked this technology as a way of bringing interactive multimedia experiences to the web long before anything comparable could be done with JavaScript. Listed here some of my more recent web audio experiments.
+I've been making electronic music since the 90s, I learnt to code, why not try to develop my own musical instruments? I wrote a number of Flash synthesizers and sequencers during the 2000's. Subsequently, there were a few excursions into the world of open source audio libraries, frameworks and tools. Sometimes really annoying. Listed here some of my more recent web audio experiments.
+
+## AWSM MKII
+The second Version of the *AwesomeWaveSplineMachine*. Modular software synthesizer that utilizes dynamic WaveSpline synthesis.
+
+[![screenshot](doc/awsm-mkII.png)](https://rnd7.github.io/awsm-mkii/dist/index.html)
+
+[AWSM MKII repository](https://github.com/rnd7/awsm-mkii)
+
+[AWSM MKII online](https://rnd7.github.io/awsm-mkii/dist/index.html)
 
 ## AWSM 
-AwesomeWaveSplineMachine. WaveSpline synthesis software synthesizer building on the experience gained with cvs1.
+AwesomeWaveSplineMachine. WaveSpline synthesis software drone synthesizer. Building on the experience gained with CVS1.
 
 [![screenshot](doc/awsm.png)](https://rnd7.github.io/awsm/dist)
 
@@ -39,7 +39,7 @@ Computational audio synthesis proof of concept.
 [cvs1 online](https://rnd7.github.io/cvs1)
 
 ## rndmsc
-More or less random music. This was my first attempt to make music using nothing but JavaScript.
+More or less random music. This was my first attempt to make music with nothing but JavaScript. Back then, I wrote a whole series of similar programms all based on the same pattern. This is the only demo that has survived.
 
 [![screenshot](doc/rndmsc.png)](https://rnd7.github.io/rndmsc)
 
@@ -57,7 +57,7 @@ Generic user interface component designed to interact with synthesizers or other
 [ctrl online](https://rnd7.github.io/ctrl)
 
 # Video
-Together with the beloved mother of my children Aimee Slickers, I realized quite a lot of different Video Installlations under the pseudonym Lux & Lucid. The tools listed here all emerged from these projects. All are purpose build and most of them were only intended to perform one specific task for one occasion. Even if designed as disposable software, some still could be reused.
+Together with the beloved mother of my children Aimee Slickers, I realized various different Video Installations, primarily using the pseudonym Lux & Lucid. All the tools listed here emerged from these projects and are purpose build. Most of them were only intended to perform one specific task for one occasion. Even if designed as disposable software, some were reused several times. Here is a list of the browser based tools.
 
 ## Lux & Lucid solaire
 2+1 Channel Video Mixer
@@ -68,7 +68,7 @@ Together with the beloved mother of my children Aimee Slickers, I realized quite
 
 
 ## Lux & Lucid iris
-Video Mandala Mixer
+Video Mandala Mixer with audio trigger and spectrum visualization.
 
 [![iris screenshot](doc/iris.png)](https://github.com/rnd7/iris)
 
@@ -103,6 +103,8 @@ Infinite Zoom Application
 ## Sana Emiolechi
 Custom made image gallery that can be hosted freely on github. I don't have insta. So I created this to share images of a personal photo project with people I know.
 
+Update: Today I have Instagram, but still don't like it.
+
 [![Sana Emiolechi screenshot](doc/sana-emiolechi.png)](https://rnd7.github.io/sana-emiolechi)
 
 [Sana Emiolechi repository](https://github.com/rnd7/sana-emiolechi)
@@ -110,7 +112,7 @@ Custom made image gallery that can be hosted freely on github. I don't have inst
 [Sana Emiolechi online](https://rnd7.github.io/sana-emiolechi)
 
 ## Weather Board
-You can collaborate in real time on writing slowly fading poems using this tool. You might also use it for anonymous chat purposes and even script it to write weird messages repeatedly. In urgent cases you can roll your own server in just ten seconds.
+You can collaborate in real time on writing slowly fading poems using this tool. You might also use it for anonymous chat purposes and even script it to write weird messages repeatedly. In urgent cases you can roll your own server in just ten seconds. An art project in terms of its objective.
 
 [![weather-board screenshot](doc/weather-board.png)](https://github.com/rnd7/weather-board)
 
@@ -124,8 +126,8 @@ Molehill is a Webcrawler for repetitive data mining and dataset unification purp
 [Molehill repository](https://github.com/rnd7/molehill)
 
 
-# Random to infinity
-These are some of my digtal art projects that generate visual output while not being useful in any other means.
+# Random times infinity
+These are some of my digtal art projects that generate visual output while not being useful in any other means. JS Edition.
 
 ## modulateur
 Fun with GLSL. Multiple Shader Passes modulating their own output.
