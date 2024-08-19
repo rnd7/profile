@@ -1,11 +1,13 @@
-# Devoured pathways and friendly technology
-My life has had many miraculous twists and turns. Today I am a father of two lovely daughters, living a model family life in the countryside just beyond the city gates. I work as consultant, project manager and software developer for Intuity Media Labs. I used to be a rebel, musician, physicist, designer, workaholic, dropout, hippie, activist, punk, artist and philosopher.
+# Paths and junctions
+My life has had many miraculous twists and turns. Today I am a father of two lovely daughters, living a model family life in the countryside just beyond the city gates. I work as consultant, project manager and software developer for Intuity Media Labs. I used to be a rebel, musician, physicist, designer, workaholic, dropout, hippie, activist, artist and philosopher.
 
-As a skeptical person, I ask myself why individuals are usually so convinced of themselves and their model of reality. The facts are quite simple, a single person is lovable at best, but only together and over time we came up with all the wonderful achievements surrounding us today. The more ideas are exchanged, the faster innovation progresses. I believe we are essentially explorers, not inventors. Publishing source code and providing free Software is a contribution to the interhuman spirit of innovation. Praise the anthroposphere and overcome its downsides.
+As a skeptical person, I ask myself why individuals are usually so convinced of themselves and their model of reality. The facts are quite simple, a single person is lovable at best, but only together and over time we came up with all the wonderful achievements surrounding us today. The more ideas are exchanged, the faster innovation progresses. I believe we are all essentially just explorers, not inventors. Publishing source code and providing free Software is a contribution to this interhuman spirit of innovation.
 
 # Contact
 Feel free to contact me via these channels.
+
 [LinkedIn](https://www.linkedin.com/in/c-nicholas-schreiber-079924281/)
+
 [Discord](https://discord.com/channels/1275008575365840906/1275008774658326569)
 
 # Audio
