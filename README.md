@@ -1,7 +1,9 @@
-# About
-My name is Nicholas. Today I am in my forties and father of two lovely daughters. We currently try out living the stereotypical family life in the countryside just beyond the city gates. I work as consultant, project manager and software developer for Intuity Media Labs. My life has had many miraculous twists and turns. I used to be a rebel, musician, physicist, designer, workaholic, dropout, hippie, activist, artist and philosopher.
+# Outdated
+This repository will no longer be updated. In the future I will only update the native GitHub profile page repository.
 
-As a skeptical person, I wonder why individuals are usually so convinced of themselves and their model of reality. The facts are quite simple, a single person is lovable at best, but only together and over time we came up with all the wonderful achievements surrounding us today. The more ideas are exchanged, the faster innovation progresses. I believe we are all essentially just explorers, not inventors. Publishing source code and providing free Software is a contribution to this interhuman spirit of innovation.
+[Profile](https://github.com/rnd7)
+
+I only keep this repo for backwards compatibility reasons.
 
 # Contact
 Feel free to contact me via these channels.
